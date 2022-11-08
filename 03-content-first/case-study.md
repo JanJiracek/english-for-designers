@@ -21,9 +21,20 @@ big thanks for my collaborator Anička Vokounová
    <b>Status</b> – Waiting for client (classic)
   
   <h2>Problem</h2>
-  The problem was not only to come up with a new logo for the center. The problem was to unite the two logos together that you see on the left. So it was a connection of two factors. The first factor was relaxation, representing the hotel part, and the second factor was action/sport, which represented the ski area part.
+  <p>The problem was not only to come up with a new logo for the center. The problem was to unite the two logos together that you see on the left. So it was a connection of two factors. The first factor was relaxation, representing the hotel part, and the second factor was action/sport, which represented the ski area part.</p>
+    <img src="two_old_logos.png" 
+     width="400" 
+     height="400" />
   
   
-    The old logos look very substandard and old. They do not reflect the quality of the services of these two entities at all.
+        The old logos look very substandard and old. They do not reflect the quality of the services of these two entities at all.
+  
+  <h2>Solution</h2>
+  <p>I followed two main factors to create the new logo. In addition, I added a third characterizing factor. This was the historical legacy and tradition of the resort, which is reflected in the typography.</p>
+  
+   <img src="new_logo.png" 
+     width="400" 
+     height="400" />
+  
   
   </html>
