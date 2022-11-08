@@ -32,9 +32,16 @@ big thanks for my collaborator Anička Vokounová
   <h2>Solution</h2>
   <p>I followed two main factors to create the new logo. In addition, I added a third characterizing factor. This was the historical legacy and tradition of the resort, which is reflected in the typography.</p>
   
-   <img src="new_logo.png" 
-     width="400" 
-     height="400" />
+   <img src="new_logo.png"/>
+  
+   <h2>Result</h2>
+  <p>This is the result of our project. As you can see, we work with the line on all possible corporate materials and thanks to it we have created a comprehensive visual identity.
+    
+    We learnt from this project lot of thing, like typography, communication woth clients and use 
+
+The client chose this project as the best..</p>
+  
+   <img src="new_logo.png"/>
   
   
   </html>
