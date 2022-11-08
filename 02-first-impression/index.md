@@ -10,7 +10,7 @@ The most important thing for me is humility  towards more experienced people, al
 
 <img src="profile.jpeg" 
      width="200" 
-     height="450" />
+     height="280" />
 
 <h2>My 3 top works</h2>
 <h3>Kostelecký pivní festival </h3>
