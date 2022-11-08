@@ -37,11 +37,11 @@ big thanks for my collaborator Anička Vokounová
    <h2>Result</h2>
   <p>This is the result of our project. As you can see, we work with the line on all possible corporate materials and thanks to it we have created a comprehensive visual identity.
     
-    We learnt from this project lot of thing, like typography, communication woth clients and use 
+    We learnt from this project lot of thing, like typography, communication with clients and working with teammate.
 
 The client chose this project as the best..</p>
   
-   <img src="new_logo.png"/>
+   <img src="visual_identity.png"/>
   
   
   </html>
