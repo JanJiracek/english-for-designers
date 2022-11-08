@@ -9,7 +9,7 @@ I also enjoy playing the flute, dancing and playing computer games.
 The most important thing for me is humility  towards more experienced people, always friendly mood and do what you makes happy.
 
 <img src="profile.jpeg" 
-     width="200" 
+     width="180" 
      height="280" />
 
 <h2>My 3 top works</h2>
@@ -24,6 +24,15 @@ The resort of course wants to maintain its current position, it decided to redes
      height="400" />
 <h3>Theatre Viola</h3>
 <p>A school project for a real client, the Viola Theater, who asked us for a complete redesign of their existing materials, logo and communication. The goal was to modernize the graphic design and point out the uniqueness of the theater, which is based on a very small hall, where the audience is close to the actors.</p>
-
+<img src="images/viola.png" 
+     width="700" 
+     height="400" />
+     
+     <h3>Craftbeer design</h3>
+<p>I ask a client called Clock if I could make a design for craftbeer they are creating.
+The beer is very strong so I chose a monumental typography with a very aggressive red color to represent the power of that beer. Its still in progress but the Beer will look similar to this example.</p>
+<img src="images/beer.png" 
+     width="700" 
+     height="400" />
 <p>
 My team and I got into the selection process, where we won the logo and color scheme.</p>
