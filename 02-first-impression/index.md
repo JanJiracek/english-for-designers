@@ -28,11 +28,10 @@ The resort of course wants to maintain its current position, it decided to redes
      width="700" 
      height="400" />
      
-     <h3>Craftbeer design</h3>
+ <h3>Craftbeer design</h3>
 <p>I ask a client called Clock if I could make a design for craftbeer they are creating.
 The beer is very strong so I chose a monumental typography with a very aggressive red color to represent the power of that beer. Its still in progress but the Beer will look similar to this example.</p>
 <img src="images/beer.png" 
-     width="700" 
+     width="400" 
      height="400" />
-<p>
-My team and I got into the selection process, where we won the logo and color scheme.</p>
+
