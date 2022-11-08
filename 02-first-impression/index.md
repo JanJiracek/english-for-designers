@@ -19,8 +19,8 @@ The most important thing for me is humility  towards more experienced people, al
 The resort of course wants to maintain its current position, it decided to redesign its logo and connect the city hotel part with the ski part. (for now they are seperated – different logos…) 
 
 </p>
- <img src="visual_identity.png" 
-     width="400" 
+ <img src="images/visual_identity.png" 
+     width="800" 
      height="400" />
 <h3>Theatre Viola</h3>
 <p>A school project for a real client, the Viola Theater, who asked us for a complete redesign of their existing materials, logo and communication. The goal was to modernize the graphic design and point out the uniqueness of the theater, which is based on a very small hall, where the audience is close to the actors.</p>
