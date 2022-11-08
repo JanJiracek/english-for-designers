@@ -13,9 +13,15 @@ The most important thing for me is humility  towards more experienced people, al
      height="280" />
 
 <h2>My 3 top works</h2>
-<h3>Kostelecký pivní festival </h3>
-<p>A real job, where the client needed to redesign their logo of the Kostelec beer festival, as well as the related posters and merch.</p>
+<h3>Špindlerův Mlýn</h3>
+<p>Špindlerův Mlýn certainly the most popular ski and leisure resort in the Czech Republic. It offers high quality hotels for relaxing or skiing and even in summer offers lots of activities as cycling, mountaineering and so long.
 
+The resort of course wants to maintain its current position, it decided to redesign its logo and connect the city hotel part with the ski part. (for now they are seperated – different logos…) 
+
+</p>
+ <img src="visual_identity.png" 
+     width="400" 
+     height="400" />
 <h3>Theatre Viola</h3>
 <p>A school project for a real client, the Viola Theater, who asked us for a complete redesign of their existing materials, logo and communication. The goal was to modernize the graphic design and point out the uniqueness of the theater, which is based on a very small hall, where the audience is close to the actors.</p>
 
