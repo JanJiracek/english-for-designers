@@ -16,7 +16,7 @@ The resort of course wants to maintain its current position, it decided to redes
   <b>Team</b> – 2 graphic designers
 big thanks for my collaborator Anička Vokounová
   
-   <b>Duration</b> – 6 months
+   <b>Duration</b> – 6 months (started in January 2022)
   
    <b>Status</b> – Waiting for client (classic)
   
@@ -30,7 +30,11 @@ big thanks for my collaborator Anička Vokounová
         The old logos look very substandard and old. They do not reflect the quality of the services of these two entities at all.
   
   <h2>Solution</h2>
-  <p>I followed two main factors to create the new logo. In addition, I added a third characterizing factor. This was the historical legacy and tradition of the resort, which is reflected in the typography.</p>
+  <p>I followed two main factors to create the new logo. In addition, I added a third characterizing factor. This was the historical legacy and tradition of the resort, which is reflected in the typography inspired from old documents as postcards and posters showed below.</p>
+  
+   <img src="old_type.png"/>
+
+  The picture below is the new logo which we created from all that factors I've just described to you.
   
    <img src="new_logo.png"/>
   
