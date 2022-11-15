@@ -14,9 +14,9 @@ I am currently working as a junior graphic designer in Wextra communications and
 
 I first encountered graphic design in high school, where I studied economics and accounting. It was there I discovered for the first time that I enjoy creative work connected to design. It doesn’t make a lot of sense, but we had a subject there that was about graphic design and I really excelled in it.
 
-I also enjoy playing the flute, dancing and playing computer games. 
+I'm very positive person who likes fun and being around nice people. I'm also huge fan of Formula 1, computer/board games and typography. 
 
-<b>The most important thing for me is humility  towards more experienced people, always friendly mood and do what you makes happy.</b>
+<b>The most important thing for me is humility towards more experienced people, always friendly mood at work and do what you makes happy.</b>
 
   ________________
   
