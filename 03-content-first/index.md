@@ -18,7 +18,7 @@ I'm very positive person who likes fun and being around nice people. I'm also hu
 
 <b>The most important thing for me is humility towards more experienced people, always friendly mood at work and do what you makes happy, chichachochachi.</b>
 
-  PS: be patient with me, sometimes I say some random word from my mount. 
+  PS: be patient with me, sometimes I say some random word from my mounth. 
   
   ________________
   
