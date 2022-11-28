@@ -13,6 +13,17 @@ My job is not only to come up with design on the screen, but also in reality. Th
 (2016 – present)
 <p>My secondary work is photographing portraits, weddings and other events. It's not just about pulling the trigger, but also about communicating with the client. In my free time, I like to combine photography with graphic design, thanks to which I learn more about these two fields.</p>
 
+
+
       EDUCATION
-<h3>Freelance graphic designer</h3>
-(2019 – 2022)
+<h3>University of Creative Communication</h3>
+(2020 – present)
+<p>Graphic designer</p>
+
+<h3>College of computer arts and design</h3>
+(2018 – 2020)
+<p>Graphic designer</p>
+
+<h3>T. G. Masaryk Business Academyv</h3>
+(2014 – 2018)
+<p>Economy and Information</p>
