@@ -5,7 +5,7 @@ Jan Jiráček
 
 janjiracekph@gmail.com
 
- <img src="images/visual_identity.png" 
+ <img src="visual_identity.png" 
      width="800" 
      height="400" />
 
