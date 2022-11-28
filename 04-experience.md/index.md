@@ -5,6 +5,9 @@ Jan Jiráček
 
 janjiracekph@gmail.com
 
+ <img src="images/visual_identity.png" 
+     width="800" 
+     height="400" />
 
 
       WORK EXPERIENCE
