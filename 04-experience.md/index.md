@@ -1,3 +1,11 @@
+      ABOUT ME
+Jan Jiráček
+
+734 234 234
+
+janjiracekph@gmail.com
+
+
 
       WORK EXPERIENCE
 <h3>Wextra Communications s.r.o.</h3>
