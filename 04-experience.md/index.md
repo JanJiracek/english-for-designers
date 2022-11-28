@@ -38,3 +38,19 @@ My job is not only to come up with design on the screen, but also in reality. Th
 <h3>T. G. Masaryk Business Academyv</h3>
 (2014 – 2018)
 <p>Economy and Information</p>
+
+      SKILLS
+- Branding
+- Typography
+- Logo
+- Print
+- Communication
+- Web design
+
+      TOOLS
+- InDesign
+- Photoshop
+- Illustrator
+- XD
+- DaVinci Resolve
+- Office
