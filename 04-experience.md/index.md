@@ -32,22 +32,33 @@ My job is not only to come up with design on the screen, but also in reality. Th
 <h3>University of Creative Communication</h3>
 (2020 – present)
 <p>Graphic designer</p>
+Praha
 
 <h3>College of computer arts and design</h3>
 (2018 – 2020)
 <p>Graphic designer</p>
+Hradec Králové
 
 <h3>T. G. Masaryk Business Academyv</h3>
 (2014 – 2018)
-<p>Economy and Information</p>
+<p>Economics</p>
+Kostelec nad Orlicí
 
       SKILLS
-- Branding
-- Typography
-- Logo
-- Print
-- Communication
-- Web design
+Branding
+- logo
+- meerchandise 
+
+Typography
+
+Photo – related
+
+Print and webdesign
+- prepress
+- prototyping
+- designing
+
+Presentation
 
       TOOLS
 - InDesign
