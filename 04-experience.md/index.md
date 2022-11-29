@@ -58,12 +58,20 @@ Print and webdesign
 - prototyping
 - designing
 
-Presentation
+Communication
+- presentation
+- public speaking
+- team leader
 
       TOOLS
-- InDesign
+Adobe programs
 - Photoshop
+- Indesign
 - Illustrator
+- Premiere pro
 - XD
-- DaVinci Resolve
-- Office
+- Figma 
+
+Google/Office
+
+Slack/Teams
