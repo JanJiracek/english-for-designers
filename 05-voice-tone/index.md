@@ -14,7 +14,7 @@ obecně řečeno
 
 to co řekneme my
 
-- differently
+- formal
 - …
 - …
 
