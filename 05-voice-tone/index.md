@@ -13,11 +13,11 @@ If I supposed to be a brand I will be:
 
 ## Tone
 
-to co řekneme my
+Depending on situations, it's important to choose a right tone which will bring us right outcome. 
 
-- formal
-- …
-- …
+- Decent: When I communicate with someone new who might be very relevant for my brand I have to be at first moment decent and polite. It gives me a time to know this person and then I can change different tone to make it more friendly and calm atmosphere. 
+- Funny & Frinedly: For example when I presentate project what takes very long time to explain something, it is necessary to intersperse the presentation with funny elements like memes, jokes and others.
+- Empathy: I don't want to dictate anything to anyone, I want to understand people and solve their problems as good as possible.
 
 ## Style
 
