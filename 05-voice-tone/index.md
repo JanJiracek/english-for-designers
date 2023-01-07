@@ -9,7 +9,7 @@ If I supposed to be a brand I will be:
 1. Friendly. This is the most important value for me. Meeting new people, get along with then and making nice relations is just i major key for evolving my brand.
 2. Confident. When I do something, nothing is more important than trust myself and my projects. That's how you sale something for your client more successfully.
 3. Clear. Make sure to communicate everything as simply as possible... but mind that it has to be still functional. For example look at Steve Jobs and his presentations... just gorgeous.
-4. Transparent. 
+4. Transparent. Don't be scared of sharing what happening inside brand. I think more transparent you are people will more trust you which is very important.
 
 ## Tone
 
