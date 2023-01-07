@@ -1,6 +1,6 @@
 # Voice & Tone
 
-An overview…
+This is a little guide for how I express myself through text.
 
 ## Voice
 
