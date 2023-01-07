@@ -21,8 +21,9 @@ Depending on situations, it's important to choose a right tone which will bring 
 
 ## Style
 
-Introduction to section…
+Key factors of my writtings:
 
-- in the ways
-- …
-- …
+- Be human. Dont's behave like a programmed bot/oblivion npc xd
+- Be honest. When you fail something just admint it and try to fix it. 
+- Be consistent. Keep your characteristic voice and tone, that's how people know you.
+- Be positive. Try to write everything in positive vibe. Nobody want to read something negative.
