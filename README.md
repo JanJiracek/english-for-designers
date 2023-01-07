@@ -17,9 +17,9 @@ My name is Jan Jiracek I blow you up because my project are the best. (joke(mayb
 - [Alternative text](01-alternative-text/index.md)
 - [First impression](02-first-impression/index.md)
 - [Content first](03-content-first/case-study.md)
-- [Experience](04-experience/index.md)
+- [Experience](04-experience.md/index.md)
 - [Voice & tone](05-voice-tone/index.md)
 
 ## Extra
 
-- [Takeaways](/takeaway/index.md)
+- [Takeaways](takeaways/index.md)
