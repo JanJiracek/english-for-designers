@@ -5,5 +5,5 @@ Hey, if you are here, you probably wanna know how I created that presentation ab
 
 Before I knew theme of presentation I had to drew some random drawings and words on a paper.
 <img src="images/paper – storytelling.jpeg" 
-     width="600" 
+     width="550" 
      height="400" />
