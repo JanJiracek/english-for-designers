@@ -14,4 +14,4 @@ Then I found out from the paper, that it would be cool to talk about self confid
 
 So I tried to make the presentation to two parts. First part will be about this paper and the second part about my own experiences which will be closely connected with the drawigns on a paper. 
 
-And at the end I will summerize everthing what I said to a single slide. 
+And at the end I will summerize everything what I said in presentation to a single slide. 
