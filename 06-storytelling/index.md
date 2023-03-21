@@ -6,6 +6,4 @@ So this is my storytelling about self Confidence of designer:
 
  <a href="images/Jiracek–slides.pdf">Presentation</a>
 
-<a href="process.md">Process</a>
-
-[process - fila link](process.md)
+[process](process.md)
