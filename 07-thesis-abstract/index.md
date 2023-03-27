@@ -1,13 +1,13 @@
-# Title (Of Thesis [Use Title Case])
+# Coporate the identity of the fictional Formula 1 racing circuit in Prague
 
-by Name Surname
+by Jan Jiráček
 
 ## Abstract
 
-<! -- Aim for 100–250 words, 1–2 paragraphs, using the Introduction, Methods, Results, and Discussion (IMRaD) writing method. -->
+Formula 1 is one of the most popular sports in the world today. Usually, races are held on road circuits or in rich and modern cities. What if these thousands of horses under the bonnet decided to race between the streets of Prague? This question is answered in my bachelor thesis. It aims to create a corporate design of fictional Prague circuit for Formula 1 races. First, I will compile an analysis of selected foreign circuits. Specifically, I will focus on their corporate design and communication. Afterwards, I will find a way to connect Prague as a city in combination with Formula 1 races. These actions will help me to create united visual style. It will be closely linked to a creative marketing campaign. The output will be visuals for logo, advertising banners, race merch, and many more. With this work I am going to raise the possibility of Formula 1 racing in Prague.
 
-<!--Include 3–7 words or phrases as keywords. -->
-<!-- Format: -->
-
-*Keywords:* lowercased (but capitalize proper nouns), not italic or bold, each keyword separated by a comma and a
-space, no ending punctuation after the final keyword, listed in any order (not necessarily alphabetical)
+- Formula 1
+- corporate identity
+- visual style
+- marketing campaign
+- branding
