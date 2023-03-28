@@ -1,4 +1,4 @@
-# Coporate the identity of the fictional Formula 1 racing circuit in Prague
+# Coporate identity of the fictional Formula 1 racing circuit in Prague
 
 by Jan Jiráček who used IMRaD method hihi
 
