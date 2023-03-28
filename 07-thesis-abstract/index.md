@@ -12,6 +12,7 @@ Formula 1 is one of the most popular sports in the world today. Usually, races a
 - marketing campaign
 - branding
 
+### Mindmap to help me create the most effective keywords
 
 <img src="images/mindmap.png" 
      width="1000" 
