@@ -13,6 +13,6 @@ Formula 1 is one of the most popular sports in the world today. Usually, races a
 - branding
 
 
-<img src="images/mindmap.jpeg" 
+<img src="images/mindmap.png" 
      width="550" 
      height="400" />
