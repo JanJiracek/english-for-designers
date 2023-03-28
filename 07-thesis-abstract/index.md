@@ -11,3 +11,8 @@ Formula 1 is one of the most popular sports in the world today. Usually, races a
 - visual style
 - marketing campaign
 - branding
+
+
+<img src="images/mindmap.jpeg" 
+     width="550" 
+     height="400" />
