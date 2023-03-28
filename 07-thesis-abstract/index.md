@@ -14,5 +14,5 @@ Formula 1 is one of the most popular sports in the world today. Usually, races a
 
 
 <img src="images/mindmap.png" 
-     width="700" 
-     height="400" />
+     width="1000" 
+     height="700" />
