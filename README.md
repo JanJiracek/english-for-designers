@@ -19,7 +19,11 @@ My name is Jan Jiracek I blow you up because my project are the best. (joke(mayb
 - [Content first](03-content-first/case-study.md)
 - [Experience](04-experience.md/index.md)
 - [Voice & tone](05-voice-tone/index.md)
+- [Storytelling](06-storytelling/index.md)
+- [Thesis abstract](07-thesis-abstract/index.md)
+- [Thesis prezentation](08-thesis-presentation/index.md)
 
 ## Extra
 
 - [Takeaways](takeaways/index.md)
+- [Year end review](00-year-end-review/index.md)
