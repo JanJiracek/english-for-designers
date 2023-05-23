@@ -1,9 +1,9 @@
-# Self confidence of designer
+# Self-confidence of designer
 ## Process
 
-Hey, if you are here, you probably wanna know how I created that presentation about self confidence of designer.
+Hey, if you are here, you probably want to know how I created that presentation about the self-confidence of a designer.
 
-Before I knew theme of presentation I had to drew some random drawings and words on a paper.
+Before I knew the theme of the presentation, I drew some random drawings and words on a piece of paper.
 
 
 <img src="images/paper – storytelling.jpeg" 
