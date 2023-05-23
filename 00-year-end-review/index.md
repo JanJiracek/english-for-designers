@@ -2,7 +2,7 @@
 # Year end review
 
 ### 1) What did you like most about this course?
-I was most impressed by his teaching style and his friendly approach to us students Thanks to that I learned a lot of things and I always enjoyed the lessons.
+I was most impressed by his teaching style and his friendly approach to us students. Thanks to that I learned a lot of things and I always enjoyed the lessons.
 
 
 ### 2) What did you like least about this course?
