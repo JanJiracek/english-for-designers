@@ -10,8 +10,8 @@ Before I knew the theme of the presentation, I drew some random drawings and wor
      width="550" 
      height="400" />
 
-Then I found out from the paper, that it would be cool to talk about self confidence of designer.
+Then I found out from the drawings that it would be cool to talk about the self-confidence of a designer.
 
-So I tried to make the presentation to two parts. First part will be about this paper and the second part about my own experiences which will be closely connected with the drawigns on a paper. 
+So I tried to make the presentation into two parts. The first part will be about this paper, and the second part about my own experiences, which will be closely connected width the drawings.
 
-And at the end I will summerize everything what I said in presentation to a single slide. 
+And at the end, I will summarize everything I said in the presentation in a single slide.
