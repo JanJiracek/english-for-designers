@@ -21,7 +21,7 @@ My name is Jan Jiracek, I’ll blow your mind because my projects are the best. 
 - [Voice & tone](05-voice-tone/index.md)
 - [Storytelling](06-storytelling/index.md)
 - [Thesis abstract](07-thesis-abstract/index.md)
-- [Thesis prezentation](08-thesis-presentation/index.md)
+- [Thesis presentation](08-thesis-presentation/index.md)
 
 ## Extra
 
